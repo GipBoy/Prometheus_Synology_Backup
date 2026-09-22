@@ -1,0 +1,25 @@
+{
+  "ExporterPort": 9771,
+  "NasList": [
+    {
+      "name": "192.168.1.1",
+      "DSMAddress": "192.168.1.1",
+      "DSMPort": 5001,
+      "Username": "admin",
+      "Password": "admin",
+      "Secure": true,
+      "ActiveBackup": true,
+      "Cert_Verify": false
+    },
+    {
+      "name": "192.168.1.1",
+      "DSMAddress": "192.168.1.1",
+      "DSMPort": 5001,
+      "Username": "admin",
+      "Password": "admin",
+      "Secure": true,
+      "ActiveBackup": true,
+      "Cert_Verify": false
+    }
+  ]
+}
